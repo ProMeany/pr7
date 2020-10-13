@@ -5,7 +5,6 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.Arrays;
 import java.util.Stack;
-
 class Main extends JFrame {
     JButton add = new JButton("Add cards to player");
     JButton play = new JButton("Play!");
