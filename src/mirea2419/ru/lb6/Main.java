@@ -1,5 +1,4 @@
 package mirea2419.ru.lb6;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
